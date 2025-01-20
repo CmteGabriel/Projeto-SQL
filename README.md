@@ -1,10 +1,13 @@
 # Projeto de Análise de Dados - Base de Dados Northwind
 
+---
+
+## 🎯 Objetivo
 Este repositório contém o projeto de análise de dados utilizando a base de dados **Northwind** e o **SQL Server**. O objetivo é explorar e responder perguntas aplicadas ao contexto da empresa fictícia chamada Northwind. 
 
 ---
 
-## 📝 Descrição do Projeto
+## 📝 Descrição
 
 O projeto aborda as seguintes etapas:  
 1. Exploração da estrutura e das relações das tabelas do banco de dados Northwind.  
@@ -23,8 +26,14 @@ As perguntas de negócio respondidas incluem:
 - **Retorne todos os produtos comprados pelo cliente "Queen Cozinha".**  
 
 ---
+## 💻 Tecnologias
 
-## 🚀 Como Utilizar
+- SQL Server
+- SQL Server Management Studio 20
+
+---
+
+## 📂 Como Usar
 - **📄 Documentação_ProjetoSQL (PDF):**  
   Contém a introdução, metodologia, consultas elaboradas e resultados obtidos.  
 
